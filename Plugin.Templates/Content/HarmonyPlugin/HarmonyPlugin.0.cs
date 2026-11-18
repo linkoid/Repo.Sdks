@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace HarmonyPlugin._0;
 
-[BepInPlugin("{Author}.HarmonyPlugin.0", "HarmonyPlugin__0", "1.0")]
+[BepInPlugin("{Author}.HarmonyPlugin.0", "HarmonyPlugin__0", "1.0.0")]
 public class HarmonyPlugin__0 : BaseUnityPlugin
 {
     internal static HarmonyPlugin__0 Instance { get; private set; } = null!;
